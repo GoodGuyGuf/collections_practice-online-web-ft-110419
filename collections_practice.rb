@@ -3,7 +3,7 @@ array.sort
 end
 
 def sort_array_desc
-
+array.sort
 end
 
 def sort_array_char_count
