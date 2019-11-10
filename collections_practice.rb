@@ -19,9 +19,7 @@ array.reverse
 end
 
 def kesha_maker(array)
-  array.map do |element|
-      element[2] = '$'
-      element
+
 end
 
 def find_a(array)
