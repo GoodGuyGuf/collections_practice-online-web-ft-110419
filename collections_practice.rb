@@ -20,7 +20,7 @@ end
 
 def kesha_maker(array)
 kesha_maker = []
-kesha_maker << array[3] = $
+kesha_maker << array[3] = "$"
 end
 
 def find_a(array)
